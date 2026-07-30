@@ -2,11 +2,11 @@
 <h3 align="center">Software Engineer Intern @Vutto</h3>
 
 <p align="center">
-  Recent B.Tech CSE graduate (VIT Vellore, CGPA 9.16) building scalable APIs, real-time systems, and AI-powered products.
+  Recent B.Tech CSE graduate (VIT Vellore, CGPA 9.17) building scalable APIs, real-time systems, and AI-powered products.
 </p>
 
 <p align="center">
-  <a href="https://sumitgupta24.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sumitgupta24.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sumit-gupta-24s12s25s30r16b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/sumitgupta24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:cricsumit24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 
 ### About Me
 
-- B.Tech in Computer Science, **VIT Vellore** — CGPA 9.16/10
+- B.Tech in Computer Science, **VIT Vellore** — CGPA 9.17/10
 - Solved **1000+ DSA problems** on LeetCode — **Knight** rated
 - **National Semifinalist**, Flipkart GRiD 7.0 (top ~2 among 1.6 lakh participants)
 - Currently building full-stack products with **React, Node.js, Express, MongoDB** and integrating **LLM-based workflows**
