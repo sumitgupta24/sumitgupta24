@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sumit Gupta 👋</h1>
+<h1 align="center">Hi, I'm Sumit Gupta</h1>
 <h3 align="center">Software Engineer Intern @Vutto</h3>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 B.Tech in Computer Science, **VIT Vellore** — CGPA 9.16/10
-- 🧩 Solved **1000+ DSA problems** on LeetCode — **Knight** rated
-- 🏆 **National Semifinalist**, Flipkart GRiD 7.0 (top ~2 among 1.6 lakh participants)
-- 🔭 Currently building full-stack products with **React, Node.js, Express, MongoDB** and integrating **LLM-based workflows**
-- 🌱 Sharpening backend architecture, system design, and scalable API design
-- 💬 Ask me about REST APIs, JWT auth, Socket.IO, or prompt engineering for LLMs
-- 📫 Reach me at **cricsumit24@gmail.com**
+- B.Tech in Computer Science, **VIT Vellore** — CGPA 9.16/10
+- Solved **1000+ DSA problems** on LeetCode — **Knight** rated
+- **National Semifinalist**, Flipkart GRiD 7.0 (top ~2 among 1.6 lakh participants)
+- Currently building full-stack products with **React, Node.js, Express, MongoDB** and integrating **LLM-based workflows**
+- Sharpening backend architecture, system design, and scalable API design
+- Ask me about REST APIs, JWT auth, Socket.IO, or prompt engineering for LLMs
+- Reach me at **cricsumit24@gmail.com**
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ Production-deployed e-commerce platform scoring 90+ on Lighthouse, with search, 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitgupta24&show_icons=true&theme=default&hide_border=true" />
