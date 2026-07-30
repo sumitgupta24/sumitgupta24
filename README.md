@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sumit Gupta 👋</h1>
-<h3 align="center">Backend Engineer | MERN Stack | AI/LLM Integrations</h3>
+<h3 align="center">Software Engineer Intern @Vutto</h3>
 
 <p align="center">
   Recent B.Tech CSE graduate (VIT Vellore, CGPA 9.16) building scalable APIs, real-time systems, and AI-powered products.
